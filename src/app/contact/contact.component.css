@@ -1,0 +1,25 @@
+.director{
+    height: 300px;
+    width: 200px;
+}
+#p{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRucswB2yvbTU7Y3ezFgzgAJrEZ9NvGfCVg0rMNVrW93x6LIBRxyQ');
+    background-position: cover;
+    background-image: no-repeat;
+    background-origin: fixed; 
+    height: 500vh;
+
+
+}
+.container{
+    display: flex;
+
+}
+.pic{
+    flex: 1
+
+}
+.text{
+    flex: 3;
+    padding: top;
+}

@@ -1,0 +1,41 @@
+.card-image{
+padding-bottom: 40px;
+position: center;
+margin-bottom: auto; 
+
+
+
+}
+
+.picture{
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    max-width: 100%;
+    padding: 50px 50px;
+    background-color: rgba(67, 148, 180, 0.89)
+
+}
+
+/* this is the space between my contents where I can move the div contents  */
+.space{
+    margin-top: 90px;
+    margin-bottom: 0;
+}
+/*  */
+.font{
+    font-weight: 400;
+    color: white;
+    margin-bottom: 0;
+}
+.top{
+    background-image: url("../../assets/moon.jpg");
+    background-size: 100%;
+    padding: 0;
+  
+    background-image: cover;
+}
+.card-text{
+    font-size: 30px;
+}

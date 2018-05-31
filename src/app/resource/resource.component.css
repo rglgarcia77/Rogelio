@@ -1,0 +1,25 @@
+
+.container{
+    background-color: rgb(12, 235, 243);
+}
+/* my background image, this is where I style and I want to my image to look like. */
+.body{
+    background-image: "../../assets/lacity.jpg" !important;
+}
+
+.img{
+    height: 300px;
+}
+/* my boxes (cards) how big or small they are, this part also messures the height and wide 
+these boxes should be. */
+.card{
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 40px;
+    border-color: transparent;
+}
+.top{
+    margin-top: 80px;
+}

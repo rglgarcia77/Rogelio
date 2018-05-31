@@ -1,0 +1,16 @@
+/* this is my home size */
+i{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+
+}
+.navbar{
+    background-color: #00ccffb7;
+}
+.sticky-bottom{
+    background-color: #00ccff;
+}
+.nav-link{
+    font-size: 30px;
+}

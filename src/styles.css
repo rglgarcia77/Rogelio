@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+    div #background{
+        color: green; 
+    }
+    #navigation,.navbar .navbar-default{
+        background-image:("color: green");
+      }
+#h1{
+    color: rgb(56, 199, 56)
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(0, 204, 255);
+   color: white;
+   text-align: center;
+}
+
+.jeffrey{
+font-size:30px;
+align-content: center;
+padding-right: 50px;
+padding-left: 50px;
+}
+
+.homepage{
+    background-image: url("./assets/monique.jpg");
+    
+}
+.globe{
+    color: red;
+   font :20px
+
+}
